@@ -4,4 +4,4 @@ This paper proposes a new, independent blockchain to operate at the core of Web 
 
 
 
-Gitbook version: https://docs.coredao.org/.
+Gitbook version: https://whitepaper.coredao.org/.
